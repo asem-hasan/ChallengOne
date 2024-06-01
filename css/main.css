@@ -12,7 +12,7 @@ a {
 
 .container {
       position: relative;
-      width: 320px;
+      width: 330px;
       background-color: hsl(0, 0%, 12%);
       border-radius: 10px;
 }
@@ -38,7 +38,7 @@ a {
 
 .container .info .city {
       color: hsl(75, 94%, 57%);
-      font-size: 12px;
+      font-size: 14px;
       text-align: center;
       margin-top: -5px;
 }
@@ -58,7 +58,7 @@ a {
 }
 
 .container .links a {
-      width: 250px;
+      width: 260px;
       color: white;
       text-align: center;
       padding: 10px 0;
